@@ -1,0 +1,6 @@
+pip install pymysql # mysql 연동
+pip install yfinance # 해외이자율
+pip install pykrx   # 국내주가
+pip install mplfinance
+pip install pandas_datareader
+pip install finance-datareader
